@@ -36,7 +36,7 @@ NeuralTactics/
 
 ## 주요 기술 결정
 
-- **신경망:** EGNN (이동·회피) + CNN/MLP (스킬·진형 판단) Hybrid
+- **신경망:** EGNN (이동·회피) + MLP (스킬·진형 판단) Hybrid
 - **학습:** Behavioral Cloning (Phase 1) → Genetic Algorithm + RL (Phase 2)
 - **시각화:** Pygame (선택적)
 - **언리얼 연동:** 현재 범위 밖 — 향후 확장 계획
