@@ -1,6 +1,6 @@
-# CLAUDE.md — NeuralTactics
+# READMEFORAI.md — NeuralTactics
 
-이 파일은 Claude가 매 대화에서 자동으로 참고하는 프로젝트 가이드다.
+이 파일은 모든 AI가 매 세션 시작 시 참고하는 통합 프로젝트 가이드다.
 
 ## 프로젝트 문서
 
